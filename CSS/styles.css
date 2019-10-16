@@ -1,0 +1,13 @@
+p.intro {
+  font-size: 80%;
+  text-align: center;
+}
+h2.intro {
+  color: cyan;
+}
+img.intro {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
